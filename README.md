@@ -1,2 +1,2 @@
 # MonopolyStats
-Created to track most landed on property in Monopoly
+The code includes the creation of a linked list for all the spaces on a monopoly board.  Some limitations of the code are that the chance of community chest squares are not the card deck but a 50% chance of gaining or losing money.  Trading properties was not implentmented in this project, but can be added in later time.  The goal of this code was to have players travel around the board and figure out what properties are the most landed on and which generate the most revenue.  
